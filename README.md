@@ -18,7 +18,6 @@ For this MVP, customer quality is evaluated across the customer journey using th
 
 ### These metrics are presented so relevant stakeholders can evaluate tradeoffs on business priorities.
 
----
 ## Solution Overview
 The Solar Operations Intelligence Accelerator uses a simplified **Medallion Architecture** to move data from raw source systems into business-ready analytics.
 
