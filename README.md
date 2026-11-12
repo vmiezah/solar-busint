@@ -16,6 +16,7 @@ For this MVP, customer quality is evaluated across the customer journey using th
 + **Average contract value** - How much revenue a signed customer generates
 + **Installation completion rate** - How successfully customers reach the installation stage
 
-These metrics are presented so relevant stakeholders can evaluate tradeoffs on business priorities.
+### These metrics are presented so relevant stakeholders can evaluate tradeoffs on business priorities.
+
 ---
 ## Solution Overview
