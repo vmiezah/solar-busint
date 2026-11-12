@@ -76,7 +76,7 @@ The dats is converted into Spark DataFrames and persisted as Delta tables.
 The bronze layer preserves sources data with minimal transformation. We have ingestion metadata for traceability.
 
 ### 3. Silver Layer
-🚧 Work In Progress
+🚧 **Work In Progress:**
 The silver layer will clean and standardize the Bronze data.
 
 + Null handling
@@ -84,7 +84,7 @@ The silver layer will clean and standardize the Bronze data.
 + Create unified dataset
 
 ### 3. Gold Layer
-🚧 Planned
+🚧 **Planned:** 
 The gold layer will contain our datasets of business ready insights that answer stakeholder questions.
 
 + Lead source performance
